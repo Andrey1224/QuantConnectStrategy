@@ -1,5 +1,5 @@
 ![image](https://github.com/user-attachments/assets/72d33215-41f0-43e5-8d6d-5145d9491508)
- нажимаем на +New Algorithm
+ Click on +New Algorithm.
 
 ![image](https://github.com/user-attachments/assets/dfcf7ed3-88d1-48d4-a794-43eec1ab552c)
 
